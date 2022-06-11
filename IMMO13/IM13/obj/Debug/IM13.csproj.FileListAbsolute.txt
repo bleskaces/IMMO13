@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\bin\Debug\IM13.exe.config
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\bin\Debug\IM13.exe
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\bin\Debug\IM13.pdb
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.Form1.resources
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.exe
+C:\Users\xisao\Downloads\IM13-master\IM13-master\IM13\obj\Debug\IM13.pdb
